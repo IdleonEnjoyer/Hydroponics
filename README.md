@@ -7,9 +7,9 @@ MultiScreen not supported //TODO
 Log, Shovel and Sprinkler can't overlap
 Bot will stop at any user input
 
-LoopLogic:
-while () {
 
+LoopLogic
+ 	while () {
 	sprinkler_used = false
 	
 	scr = take_screenshot()
@@ -44,4 +44,4 @@ while () {
 	}
 	
 	break
-}
+
