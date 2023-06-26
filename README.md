@@ -8,7 +8,8 @@ Log, Shovel and Sprinkler can't overlap
 Bot will stop at any user input
 
 
-LoopLogic
+LoopLogic:
+
  	while () {
 	sprinkler_used = false
 	
